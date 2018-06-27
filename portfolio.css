@@ -1,0 +1,139 @@
+header {
+    width: 100%;
+    height: 180px;
+    /* size: 100px; */
+    background-color: #E8E1EF;
+}
+
+.headline {
+    width: 900px;
+    height: 80px;
+    float: middle;
+    position: relative;
+    font-size: 55px;
+    left: 200px;
+    top: 50px;
+    color: #643A54;
+    font-family: 'Cinzel', serif;
+}
+
+.mainPicture {
+    height: 585px;
+    width: 440px;
+    float: right;
+    position: relative;
+    right: 50px;
+    /* top: 5pc; */
+    padding: 8px;
+    padding-inline-start: 3px;
+    border-color: #DECBB7;
+    border-radius: 4pc;
+}
+.secondPicture {
+    height: 900px;
+    width: 100%;
+    position: fixed;
+    size: 100px;
+    z-index: 5pc;
+}
+#navnav{
+    list-style-type: none;
+    left: 900px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    background-color: #C9ADA1;
+ }
+ .navli{
+    float: left;
+    display: block;
+    color: #643A54;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-family: 'Spirax', cursive;
+    font-size: 30px
+
+ }
+
+#main {
+    width: 100%;
+    height:665px;
+    background-image: url("amber-teasley.jpg");
+    background-size: 1000px;
+
+}
+#contact {
+    height: 500px;
+    width: 100%;
+    border: solid 4px black;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    color: #643A54;
+    background-color: #EAE0CC;
+}
+.form-group {
+    position: relative;
+
+}
+a {
+    text-decoration: none;
+    color: #643A54 !important;
+}
+#bio {
+    text-align: center;
+    position: relative;
+    width: 900px;
+    margin-top: 30px;
+    font-family: 'Cinzel', serif;
+}
+#me{
+    margin-left: 25px;
+}
+#education{
+    background-color: #E8E1EF;
+    /* margin-top: 0 !important; */
+    margin-bottom: 0 !important;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+#projects{
+    background-color: #E8E1EF;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+p{
+    margin-bottom: 0 !important;
+
+}
+#lines{
+    background-color: #E8E1EF;
+    margin: 0;
+}
+#cssCreature{
+    width: 70%;
+    opacity: .85;
+    border: 25px solid #DECBB7;
+    margin-left: 209px;
+}
+#websitePic{
+    width: 70%;
+    opacity: .85;
+    border: 25px solid #DECBB7;
+}
+#PokemonPic{
+    width: 70%;
+    opacity: .85;
+    border: 25px solid #DECBB7;
+}
+/* #ccscreature{
+    width: 70%;
+} */
